@@ -528,6 +528,10 @@ details[open] summary::after {
   }
 }
 @media (max-width: 500px) {
+
+  <style>
+@import url('https://fonts.googleapis.com/css2?family=Comic+Relief:wght@400;700&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+</style>
   * {
     margin: 0;
     padding: 0;
