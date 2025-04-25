@@ -12,6 +12,10 @@
   font-family: 'Poppins', sans-serif;
 }
 
+video::-webkit-media-controls {
+  display: none !important;
+}
+
 .container {
   display: grid;
   grid-template-areas:
